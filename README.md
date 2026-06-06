@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Selom Caleb</h1>
 <h3 align="center">Data Science and AI Enthusiast</h3>
 
-- 🔭 I’m currently working on **UK Train Delay Analysis**
+- 🔭 I’m currently working on a  **F1 project**
 
 - 🌱 I’m currently learning **at the University of Liverpool**
 
 - 👨🏽‍💻 Previously studied **at Ashesi University**
 
-- 👨‍💻 All of my projects are available at [https://selomcaleb.github.io/Portfolio-Website-with-HTML-and-CSS/assets/projects.html](https://selomcaleb.github.io/Portfolio-Website-with-HTML-and-CSS/assets/projects.html)
+- 👨‍💻 All of my projects are available at https://selomcaleb.github.io
 
 - 📫 How to reach me **selomarcmann@gmail.com**
 
